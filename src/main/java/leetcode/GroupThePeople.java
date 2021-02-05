@@ -7,10 +7,10 @@ import java.util.Map;
 
 public class GroupThePeople {
 
-    public static void main(String ... args) {
+    public static void main(String... args) {
         GroupThePeople groupThePeople = new GroupThePeople();
 
-        int[] request = {3,3,3,3,3,1,3};
+        int[] request = {3, 3, 3, 3, 3, 1, 3};
         groupThePeople.groupThePeople(request);
     }
 
