@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d38cde0-02d6-4032-9eab-1ce48c98797e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/PartitionLabels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/RestoreMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/test.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/slipp/version2/week1/ProductOfArrayExcept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/GroupThePeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/GroupThePeople.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/leetcode/PartitionLabels$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/leetcode/PartitionLabels$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/PartitionLabels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/PartitionLabels.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -30,7 +40,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
+            <state relative-caret-position="84">
               <caret line="7" column="44" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -42,7 +52,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/slipp/week13/RemoveDuplicateLetters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
+            <state relative-caret-position="231">
               <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -58,7 +68,7 @@
               <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
               <folding>
                 <element signature="e#304#305#0" expanded="true" />
-                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,8 +77,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/GroupThePeople.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="586">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="567">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/PartitionLabels.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1155">
+              <caret line="56" column="57" selection-start-line="56" selection-start-column="57" selection-end-line="56" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/RestoreMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="70" column="55" lean-forward="true" selection-start-line="70" selection-start-column="55" selection-end-line="70" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -77,13 +111,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/PartitionLabels.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/slipp/version2/week1/ProductOfArrayExcept.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="504">
+              <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -106,7 +137,11 @@
       <find>.sor</find>
       <find>merge</find>
       <find>min</find>
+      <find>dfs</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -114,9 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/sort/BigNumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java/heap/Scoville.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sort/Hindex.java" />
         <option value="$PROJECT_DIR$/src/main/java/slipp/MinimumSwaps2.java" />
         <option value="$PROJECT_DIR$/src/main/java/sort/DesOrder.java" />
         <option value="$PROJECT_DIR$/src/test/java/slipp/second/RelativeSortArrayTest.java" />
@@ -132,7 +164,6 @@
         <option value="$PROJECT_DIR$/src/main/java/slipp/fifth/MergeTwoSortedLists.java" />
         <option value="$PROJECT_DIR$/src/test/java/slipp/seventh/FindFirstAndLastPositionOfElementTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/slipp/seventh/FindFirstAndLastPositionOfElement.java" />
-        <option value="$PROJECT_DIR$/src/main/java/slipp/seventh/FirstBadVersion.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/LongestSubstring.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/CombinationSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/slipp/eighth/MinimumDistanceBetween.java" />
@@ -165,6 +196,10 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/MinPartitions.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/GroupThePeople.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/PartitionLabels.java" />
+        <option value="$PROJECT_DIR$/src/main/java/slipp/seventh/FirstBadVersion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/test.md" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/RestoreMatrix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/slipp/version2/week1/ProductOfArrayExcept.java" />
       </list>
     </option>
   </component>
@@ -212,7 +247,26 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="slipp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coding" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="slipp" type="462c0819:PsiDirectoryNode" />
+              <item name="version2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coding" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="slipp" type="462c0819:PsiDirectoryNode" />
+              <item name="version2" type="462c0819:PsiDirectoryNode" />
+              <item name="week1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -227,6 +281,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/leetcode" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -248,6 +303,9 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/leetcode" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -261,27 +319,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PartitionLabels">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Application" />
-      <module name="coding.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="elevenst.MaxSum" />
-      <module name="coding.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="elevenst.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ProductOfArrayExcept">
     <configuration name="MinPartitions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.MinPartitions" />
       <module name="coding.main" />
@@ -308,6 +346,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProductOfArrayExcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="slipp.version2.week1.ProductOfArrayExcept" />
+      <module name="coding.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slipp.version2.week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RemoveDuplicateLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="slipp.week13.RemoveDuplicateLetters" />
       <module name="coding.main" />
@@ -321,13 +372,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RestoreMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.RestoreMatrix" />
+      <module name="coding.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProductOfArrayExcept" />
+        <item itemvalue="Application.RestoreMatrix" />
         <item itemvalue="Application.PartitionLabels" />
         <item itemvalue="Application.MinPartitions" />
         <item itemvalue="Application.RemoveDuplicateLetters" />
-        <item itemvalue="Application.MaxSum" />
-        <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>
@@ -360,18 +424,20 @@
       <workItem from="1609325238438" duration="3481000" />
       <workItem from="1609604268035" duration="656000" />
       <workItem from="1609825124305" duration="1995000" />
-      <workItem from="1610286815300" duration="12318000" />
+      <workItem from="1610286815300" duration="16114000" />
+      <workItem from="1613228702554" duration="7734000" />
+      <workItem from="1613559593540" duration="2029000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131961000" />
+    <option name="totallyTimeSpent" value="145520000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-313" y="-1080" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49936947" visible="true" weight="0.106496274" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49936947" visible="true" weight="0.10915868" />
       <window_info id="Structure" order="1" sideWeight="0.5006305" side_tool="true" weight="0.106496274" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -380,7 +446,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899868" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20221327" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24647887" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -407,33 +473,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/slipp/second/LargestNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="38" column="69" lean-forward="true" selection-start-line="38" selection-start-column="69" selection-end-line="38" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/slipp/second/RelativeSortArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/slipp/fourth/MinimumAbsoluteDifference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/util/stream/IntStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -533,16 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/slipp/seventh/FirstBadVersion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -720,20 +749,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/stackqueue/OrderService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" selection-start-line="3" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/stackqueue/Factory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/stackqueue/OrderService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/stackqueue/Factory.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/naver/Task2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="499">
@@ -789,10 +806,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/slipp/seventh/FirstBadVersion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/test.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
+        <state relative-caret-position="84">
           <caret line="7" column="44" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/slipp/week13/RemoveDuplicateLetters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -805,25 +852,15 @@
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           <folding>
             <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/slipp/week13/RemoveDuplicateLetters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/GroupThePeople.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="586">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="567">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -832,11 +869,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/PartitionLabels.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="1155">
+          <caret line="56" column="57" selection-start-line="56" selection-start-column="57" selection-end-line="56" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/RestoreMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="70" column="55" lean-forward="true" selection-start-line="70" selection-start-column="55" selection-end-line="70" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/slipp/version2/week1/ProductOfArrayExcept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
         </state>
       </provider>
     </entry>
