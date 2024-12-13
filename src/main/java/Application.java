@@ -1,7 +1,4 @@
-import naver.Task1;
-import naver.Task2;
-import slipp.week12.FinalPrices;
-import slipp.week12.PathSum2;
+import deprecated.slipp.week12.FinalPrices;
 
 public class Application {
 

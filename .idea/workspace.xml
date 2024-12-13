@@ -1,25 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9d38cde0-02d6-4032-9eab-1ce48c98797e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/slipp/version2/week2/DigitOclock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/slipp/version2/week3/CombinationSum2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/slipp/version2/week4/SpiralMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/slipp/version2/week5/RemoveDuplicatesfromSortedList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/v2/basic/Fibonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/practice/HsTest$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/practice/HsTest$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/elevenst/MaxSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/elevenst/MaxSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/elevenst/Veterinarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/elevenst/Veterinarian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/greedy/GymSuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/greedy/GymSuit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hash/NotCompletionPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/hash/NotCompletionPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/heap/Scoville.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/heap/Scoville.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/CombinationSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/leetcode/CombinationSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/GroupThePeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/leetcode/GroupThePeople.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/LongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/leetcode/LongestSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/MinPartitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/leetcode/MinPartitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/PartitionLabels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/leetcode/PartitionLabels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/RestoreMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/leetcode/RestoreMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/test.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/leetcode/test.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/naver/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/naver/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/naver/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/naver/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/naver/task3/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/naver/task3/Article.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/naver/task3/ArticlesRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/naver/task3/ArticlesRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/naver/task3/ArticlesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/naver/task3/ArticlesService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/naver/task3/CachingArticlesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/naver/task3/CachingArticlesService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/FindKim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/practice/FindKim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/HsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/practice/HsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/SuBak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/practice/SuBak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/UnLikeSameNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/practice/UnLikeSameNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/MinimumSwaps2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/MinimumSwaps2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/eighth/MinimumDistanceBetween.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/eighth/MinimumDistanceBetween.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/eighth/Subsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/eighth/Subsets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/etc1/AssignCookies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/etc1/AssignCookies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/etc1/GasStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/etc1/GasStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/etc1/IsSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/etc1/IsSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/etc1/JumpGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/etc1/JumpGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/etc1/ReorderDatainLogFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/etc1/ReorderDatainLogFiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/etc1/Sum3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/etc1/Sum3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/etc1/SymmetricTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/etc1/SymmetricTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/fifth/MergeTwoSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/fifth/MergeTwoSortedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/fourth/GreedyFlorist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/fourth/GreedyFlorist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/fourth/LuckBalance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/fourth/LuckBalance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/fourth/MinimumAbsoluteDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/fourth/MinimumAbsoluteDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/ninth/LargestSumAfterKNegations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/ninth/LargestSumAfterKNegations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/ninth/MostCommonWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/ninth/MostCommonWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/ninth/OrangesRotting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/ninth/OrangesRotting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/second/FindReplaceString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/second/FindReplaceString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/second/LargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/second/LargestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/second/RelativeSortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/second/RelativeSortArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/seventh/FindFirstAndLastPositionOfElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/seventh/FindFirstAndLastPositionOfElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/seventh/FirstBadVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/seventh/FirstBadVersion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/third/ClimbStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/third/ClimbStairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/third/HouseRobber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/third/HouseRobber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/third/MaxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/third/MaxSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/version2/week1/ProductOfArrayExcept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/version2/week1/ProductOfArrayExcept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/version2/week2/DigitOclock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/version2/week2/DigitOclock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/version2/week3/CombinationSum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/version2/week3/CombinationSum2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/version2/week4/SpiralMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/version2/week4/SpiralMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/version2/week5/RemoveDuplicatesfromSortedList2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/version2/week5/RemoveDuplicatesfromSortedList2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/week12/FinalPrices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/week12/FinalPrices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/week12/PathSum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/week12/PathSum2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/slipp/week13/RemoveDuplicateLetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/slipp/week13/RemoveDuplicateLetters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sort/DesOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/sort/DesOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sort/Hindex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/sort/Hindex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sort/KthNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/sort/KthNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sort/StringRandomSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/sort/StringRandomSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stackqueue/IronPipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/stackqueue/IronPipe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stackqueue/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/stackqueue/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stackqueue/StockPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/stackqueue/StockPrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stackqueue/Top.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/stackqueue/Top.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stackqueue/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deprecated/stackqueue/Truck.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +88,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
-    <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -190,12 +249,19 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="-313" />
     <option name="y" value="-1080" />
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
+  <component name="ProjectId" id="2q8tziQdYAjKqHghL5vBgMVj6vn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -262,26 +328,24 @@
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/leetcode" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="slipp.seventh" />
@@ -294,25 +358,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/leetcode" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.SpiralMatrix">
+  <component name="RunManager" selected="Application.Fibonacci">
     <configuration name="CombinationSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="slipp.version2.week3.CombinationSum2" />
+      <option name="MAIN_CLASS_NAME" value="deprecated.slipp.version2.week3.CombinationSum2" />
       <module name="coding.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="slipp.version2.week3.*" />
+          <option name="PATTERN" value="deprecated.slipp.version2.week3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,11 +373,24 @@
       </method>
     </configuration>
     <configuration name="DigitOclock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="slipp.version2.week2.DigitOclock" />
+      <option name="MAIN_CLASS_NAME" value="deprecated.slipp.version2.week2.DigitOclock" />
       <module name="coding.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="slipp.version2.week2.*" />
+          <option name="PATTERN" value="deprecated.slipp.version2.week2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v2.basic.Fibonacci" />
+      <module name="coding.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v2.basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,24 +399,11 @@
       </method>
     </configuration>
     <configuration name="HsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.HsTest" />
+      <option name="MAIN_CLASS_NAME" value="deprecated.practice.HsTest" />
       <module name="coding.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProductOfArrayExcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="slipp.version2.week1.ProductOfArrayExcept" />
-      <module name="coding.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="slipp.version2.week1.*" />
+          <option name="PATTERN" value="deprecated.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -360,11 +412,11 @@
       </method>
     </configuration>
     <configuration name="SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="slipp.version2.week4.SpiralMatrix" />
+      <option name="MAIN_CLASS_NAME" value="deprecated.slipp.version2.week4.SpiralMatrix" />
       <module name="coding.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="slipp.version2.week4.*" />
+          <option name="PATTERN" value="deprecated.slipp.version2.week4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -374,14 +426,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.SpiralMatrix" />
         <item itemvalue="Application.CombinationSum2" />
         <item itemvalue="Application.DigitOclock" />
         <item itemvalue="Application.HsTest" />
-        <item itemvalue="Application.ProductOfArrayExcept" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -418,6 +471,7 @@
       <workItem from="1614165243223" duration="1869000" />
       <workItem from="1615362445047" duration="5340000" />
       <workItem from="1616391491188" duration="3335000" />
+      <workItem from="1734056295498" duration="760000" />
     </task>
     <servers />
   </component>
@@ -461,7 +515,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/greedy/GymSuit.java">
